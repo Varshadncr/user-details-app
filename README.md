@@ -24,3 +24,13 @@ A responsive web application that displays a list of users fetched from an API. 
 1. **Clone the repository**:
    ```bash
    https://github.com/Varshadncr/user-details-app
+Install dependencies: Navigate to the project directory and run:
+
+
+
+npm install
+Start the development server:
+
+
+npm start
+The app should now be running at http://localhost:3000
